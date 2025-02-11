@@ -1,0 +1,1 @@
+This is a web project based on the model of Google Drive, It intends to store and retrieve your data(images, audios, videos, documents) using HTML, CSS as front end and PHP, MYSQL as backend similar to the Google Drive.
